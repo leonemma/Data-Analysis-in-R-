@@ -5,7 +5,7 @@ library(tidyr)
 library(lubridate)
 library(ggplot2)
 
-Student_Mental_health <- read_csv("students mental health/Student Mental health.csv")
+Student_Mental_health <- read_csv("~/Student Mental health.csv")
 View(Student_Mental_health)
 
 students <- Student_Mental_health
